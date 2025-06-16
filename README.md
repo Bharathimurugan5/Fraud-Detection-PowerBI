@@ -55,4 +55,6 @@ Certain alert types like Cycle and Fan-In have a high correlation with fraud.
 
 Fraud tends to spike during specific time intervals, indicating organized attack patterns.
 
+Click me : https://github.com/Bharathimurugan5/Fraud-Detection-PowerBI/blob/main/Screenshot%202025-06-16%20184710.png
+
 
